@@ -4,7 +4,7 @@ This repository contains my solutions for the **Machine Learning Zoomcamp 2025**
 
 ## Structure
 Each homework assignment is organized in a separate folder:
-- `hw01-environment-pandas/` → Environment setup, Pandas, EDA, and linear regression with NumPy  
+- `hw01-intro-to-ML-environment-pandas/` → Environment setup, Pandas, EDA, and linear regression with NumPy  
 
 
 ## Topics covered
